@@ -1,0 +1,161 @@
+{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\sl240\slmult1\f0\fs22\lang9 <div id="latestalbum" class="hero pad">\par
+\tab\tab\tab\tab <div class="container">\par
+\tab\tab\tab\tab\tab <!-- hero content -->\par
+\tab\tab\tab\tab\tab <div class="hero-content ">\par
+\tab\tab\tab\tab\tab\tab <!-- heading -->\par
+\tab\tab\tab\tab\tab\tab <h2>Latest Album</h2>\par
+\tab\tab\tab\tab\tab\tab <hr>\par
+\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab <p>We sing the best <strong class="theme-color">Songs</strong> and now we control the world best <strong class="theme-color">Music</strong>.</p>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <!-- hero play list -->\par
+\tab\tab\tab\tab\tab <div class="hero-playlist">\par
+\tab\tab\tab\tab\tab\tab <div class="row">\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-6 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- music album image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/album/1.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- disk image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive disk" src="img/album/disk.png" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- album details -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="album-details">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Perfect Melodi</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- composed by -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <h5>By Himanshu</h5>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>Lorem Ipsum has been the industry's standard dummy text ever since 1500.</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- button -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#" class="btn btn-lg btn-theme" id="playNowBtn"><i class="fa fa-play"></i>&nbsp; Play Now</a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-6 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- play list -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="playlist-content">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <ul class="list-unstyled">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <li class="playlist-number">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="song-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Melodi Song Track One</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p><strong>Album</strong>: Title &nbsp;|&nbsp; <strong>Type</strong>: Rock &nbsp;|&nbsp; <strong>Singer</strong>: Dawn</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- music icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="music-icon">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-pause"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </li>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <li class="playlist-number">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="song-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Melodi Song Track Two</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p><strong>Album</strong>: Title &nbsp;|&nbsp; <strong>Type</strong>: Rock &nbsp;|&nbsp; <strong>Singer</strong>: Dawn</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- music icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="music-icon">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-pause"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </li>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <li class="playlist-number">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="song-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Melodi Song Track Three</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p><strong>Album</strong>: Title &nbsp;|&nbsp; <strong>Type</strong>: Rock &nbsp;|&nbsp; <strong>Singer</strong>: Dawn</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- music icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="music-icon">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-pause"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </li>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <li class="playlist-number">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="song-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Melodi Song Track Four</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p><strong>Album</strong>: Title &nbsp;|&nbsp; <strong>Type</strong>: Rock &nbsp;|&nbsp; <strong>Singer</strong>: Dawn</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- music icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="music-icon">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-pause"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </li>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <li class="playlist-number">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="song-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Melodi Song Track Five</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p><strong>Album</strong>: Title &nbsp;|&nbsp; <strong>Type</strong>: Rock &nbsp;|&nbsp; <strong>Singer</strong>: Dawn</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- music icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="music-icon">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-pause"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </li>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <li class="playlist-number">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="song-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Melodi Song Track Six</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p><strong>Album</strong>: Title &nbsp;|&nbsp; <strong>Type</strong>: Rock &nbsp;|&nbsp; <strong>Singer</strong>: Dawn</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- music icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="music-icon">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-pause"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </li>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <li class="playlist-number">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="song-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Melodi Song Track Seven</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p><strong>Album</strong>: Title &nbsp;|&nbsp; <strong>Type</strong>: Rock &nbsp;|&nbsp; <strong>Singer</strong>: Dawn</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- music icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="music-icon">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-pause"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </li>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <li class="playlist-number">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="song-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- song title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Melodi Song Track Eight</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p><strong>Album</strong>: Title &nbsp;|&nbsp; <strong>Type</strong>: Rock &nbsp;|&nbsp; <strong>Singer</strong>: Dawn</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- music icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="music-icon">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-pause"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </li>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </ul>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab </div>\par
+\tab\tab\tab </div>\par
+\tab\tab\tab <!--/ hero end -->\par
+}
+ 
