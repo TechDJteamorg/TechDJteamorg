@@ -1,0 +1,324 @@
+{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\f0\fs22\lang9 <!-- news letter -->\par
+\tab\tab\tab <div class="news-letter">\par
+\tab\tab\tab\tab <div class="container">\par
+\tab\tab\tab\tab\tab <!-- news letter inner content -->\par
+\tab\tab\tab\tab\tab <div class="news-content ">\par
+\tab\tab\tab\tab\tab\tab <!-- heading -->\par
+\tab\tab\tab\tab\tab\tab <h3>Sign Up For Newsletter</h3>\par
+\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab <p><strong>Contact Us</strong> and let us know if you have any questions, Don't forget to subscribe for more awesome stuff by typing mail bellow.</p>\par
+\tab\tab\tab\tab\tab\tab <!-- subscribe form -->\par
+\tab\tab\tab\tab\tab\tab <form>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="input-group">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <input type="text" class="form-control input-lg" placeholder="Email">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <span class="input-group-btn">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <button class="btn btn-default btn-lg" type="button">Subscribe</button>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </span>\par
+\tab\tab\tab\tab\tab\tab\tab </div><!-- /input-group -->\par
+\tab\tab\tab\tab\tab\tab </form>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab </div>\par
+\tab\tab\tab </div>\par
+\tab\tab\tab <!-- news letter end -->\par
+\tab\tab\tab\par
+\tab\tab\tab <div class="portfolio pad" id="portfolio">\par
+\tab\tab\tab\tab <div>\par
+\tab\tab\tab\tab\tab <!-- default heading -->\par
+\tab\tab\tab\tab\tab <div class="default-heading">\par
+\tab\tab\tab\tab\tab\tab <!-- heading -->\par
+\tab\tab\tab\tab\tab\tab <h2>Portfolio</h2>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab <!-- portfolio -->\par
+\tab\tab\tab\tab <div class="portfolio-content" id="portfolioOwl">\par
+\tab\tab\tab\tab\tab <div class="item">\par
+\tab\tab\tab\tab\tab\tab <!-- item image -->\par
+\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/portfolio/1.jpg" alt="">\par
+\tab\tab\tab\tab\tab\tab <!-- transparent background -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-transparent"></div>\par
+\tab\tab\tab\tab\tab\tab <!-- on mouse hover details -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-hover">\par
+\tab\tab\tab\tab\tab\tab\tab <!-- heading /title -->\par
+\tab\tab\tab\tab\tab\tab\tab <h3>Album Title</h3><hr>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- project details -->\par
+\tab\tab\tab\tab\tab\tab\tab <p>Some details about album.</p>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- icon -->\par
+\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-share"></i></a>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <div class="item">\par
+\tab\tab\tab\tab\tab\tab <!-- item image -->\par
+\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/portfolio/2.jpg" alt="">\par
+\tab\tab\tab\tab\tab\tab <!-- transparent background -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-transparent"></div>\par
+\tab\tab\tab\tab\tab\tab <!-- on mouse hover details -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-hover">\par
+\tab\tab\tab\tab\tab\tab\tab <!-- heading /title -->\par
+\tab\tab\tab\tab\tab\tab\tab <h3>Album Title</h3><hr>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- project details -->\par
+\tab\tab\tab\tab\tab\tab\tab <p>Some details about album.</p>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- icon -->\par
+\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-share"></i></a>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <div class="item">\par
+\tab\tab\tab\tab\tab\tab <!-- item image -->\par
+\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/portfolio/3.jpg" alt="">\par
+\tab\tab\tab\tab\tab\tab <!-- transparent background -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-transparent"></div>\par
+\tab\tab\tab\tab\tab\tab <!-- on mouse hover details -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-hover">\par
+\tab\tab\tab\tab\tab\tab\tab <!-- heading /title -->\par
+\tab\tab\tab\tab\tab\tab\tab <h3>Album Title</h3><hr>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- project details -->\par
+\tab\tab\tab\tab\tab\tab\tab <p>Some details about album.</p>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- icon -->\par
+\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-share"></i></a>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <div class="item">\par
+\tab\tab\tab\tab\tab\tab <!-- item image -->\par
+\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/portfolio/4.jpg" alt="">\par
+\tab\tab\tab\tab\tab\tab <!-- transparent background -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-transparent"></div>\par
+\tab\tab\tab\tab\tab\tab <!-- on mouse hover details -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-hover">\par
+\tab\tab\tab\tab\tab\tab\tab <!-- heading /title -->\par
+\tab\tab\tab\tab\tab\tab\tab <h3>Album Title</h3><hr>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- project details -->\par
+\tab\tab\tab\tab\tab\tab\tab <p>Some details about album.</p>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- icon -->\par
+\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-share"></i></a>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <div class="item">\par
+\tab\tab\tab\tab\tab\tab <!-- item image -->\par
+\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/portfolio/5.jpg" alt="">\par
+\tab\tab\tab\tab\tab\tab <!-- transparent background -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-transparent"></div>\par
+\tab\tab\tab\tab\tab\tab <!-- on mouse hover details -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-hover">\par
+\tab\tab\tab\tab\tab\tab\tab <!-- heading /title -->\par
+\tab\tab\tab\tab\tab\tab\tab <h3>Album Title</h3><hr>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- project details -->\par
+\tab\tab\tab\tab\tab\tab\tab <p>Some details about album.</p>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- icon -->\par
+\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-share"></i></a>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <div class="item">\par
+\tab\tab\tab\tab\tab\tab <!-- item image -->\par
+\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/portfolio/6.jpg" alt="">\par
+\tab\tab\tab\tab\tab\tab <!-- transparent background -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-transparent"></div>\par
+\tab\tab\tab\tab\tab\tab <!-- on mouse hover details -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-hover">\par
+\tab\tab\tab\tab\tab\tab\tab <!-- heading /title -->\par
+\tab\tab\tab\tab\tab\tab\tab <h3>Album Title</h3><hr>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- project details -->\par
+\tab\tab\tab\tab\tab\tab\tab <p>Some details about album.</p>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- icon -->\par
+\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-share"></i></a>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <div class="item">\par
+\tab\tab\tab\tab\tab\tab <!-- item image -->\par
+\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/portfolio/7.jpg" alt="">\par
+\tab\tab\tab\tab\tab\tab <!-- transparent background -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-transparent"></div>\par
+\tab\tab\tab\tab\tab\tab <!-- on mouse hover details -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-hover">\par
+\tab\tab\tab\tab\tab\tab\tab <!-- heading /title -->\par
+\tab\tab\tab\tab\tab\tab\tab <h3>Album Title</h3><hr>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- project details -->\par
+\tab\tab\tab\tab\tab\tab\tab <p>Some details about album.</p>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- icon -->\par
+\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-share"></i></a>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <div class="item">\par
+\tab\tab\tab\tab\tab\tab <!-- item image -->\par
+\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/portfolio/8.jpg" alt="">\par
+\tab\tab\tab\tab\tab\tab <!-- transparent background -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-transparent"></div>\par
+\tab\tab\tab\tab\tab\tab <!-- on mouse hover details -->\par
+\tab\tab\tab\tab\tab\tab <div class="p-hover">\par
+\tab\tab\tab\tab\tab\tab\tab <!-- heading /title -->\par
+\tab\tab\tab\tab\tab\tab\tab <h3>Album Title</h3><hr>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- project details -->\par
+\tab\tab\tab\tab\tab\tab\tab <p>Some details about album.</p>\par
+\tab\tab\tab\tab\tab\tab\tab <!-- icon -->\par
+\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-share"></i></a>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab <div class="text-center">\par
+\tab\tab\tab\tab\tab <a href="#" class="btn btn-lg btn-theme">View more</a>\par
+\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab <!-- portfolio end -->\par
+\tab\tab\tab </div>\par
+\tab\tab\tab <!-- work with us end -->\par
+\tab\tab\tab\par
+\tab\tab\tab <!-- events -->\par
+\tab\tab\tab <div class="events parallax-three pad" id="events">\par
+\tab\tab\tab\tab <div class="container">\par
+\tab\tab\tab\tab\tab <!-- default heading -->\par
+\tab\tab\tab\tab\tab <div class="default-heading-shadow">\par
+\tab\tab\tab\tab\tab\tab <!-- heading -->\par
+\tab\tab\tab\tab\tab\tab <h2>Coming Events</h2>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <!-- events element -->\par
+\tab\tab\tab\tab\tab <div class="events-element">\par
+\tab\tab\tab\tab\tab\tab <div class="row">\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-6 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- event item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="events-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event date -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="event-date">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab 24 <span class="emonth">Jan</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- time -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <span class="etime">06:30 pm</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event location -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <span class="event-location"><i class="fa fa-map-marker"></i> New York</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/event/1.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image hover -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="img-hover">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- hover icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play-circle"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="event-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h3>Sound Of melodi In Instrumesnts</h3>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line --><hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sed doconsect etur eiusmod teme et dolore magna aliqua... <a href="#">more</a></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- buy ticket button link -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <button href="#bookTicket" class="btn btn-lg btn-theme" data-toggle="modal" >Book Ticket</button>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-6 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- event item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="events-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event date -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="event-date">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab 31 <span class="emonth">Jan</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- time -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <span class="etime">09:45 pm</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event location -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <span class="event-location"><i class="fa fa-map-marker"></i> Romania</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/event/2.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image hover -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="img-hover">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- hover icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play-circle"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="event-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h3>Rock Music Festival at City Life Mall</h3>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line --><hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sed doconsect etur eiusmod teme et dolore magna aliqua... <a href="#">more</a></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- buy ticket button link -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <button href="#bookTicket" class="btn btn-lg btn-theme" data-toggle="modal" >Book Ticket</button>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-6 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- event item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="events-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event date -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="event-date">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab 14 <span class="emonth">Feb</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- time -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <span class="etime">10:30 am</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event location -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <span class="event-location"><i class="fa fa-map-marker"></i> New Delhi</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/event/3.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image hover -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="img-hover">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- hover icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play-circle"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="event-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h3>Fashion Show Light At Hollywood</h3>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line --><hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sed doconsect etur eiusmod teme et dolore magna aliqua... <a href="#">more</a></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- buy ticket button link -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <button href="#bookTicket" class="btn btn-lg btn-theme" data-toggle="modal" >Book Ticket</button>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-6 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- event item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="events-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event date -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="event-date">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab 31 <span class="emonth">Mar</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="clearfix"></div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- time -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <span class="etime">10:00 pm</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event location -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <span class="event-location"><i class="fa fa-map-marker"></i> New Delhi</span>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/event/4.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image hover -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="img-hover">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- hover icon -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <a href="#"><i class="fa fa-play-circle"></i></a>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="event-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- event title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h3>Fashion Show Light At Hollywood</h3>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line --><hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, sed doconsect etur eiusmod teme et dolore magna aliqua... <a href="#">more</a></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- buy ticket button link -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <button href="#bookTicket" class="btn btn-lg btn-theme" data-toggle="modal" >Book Ticket</button>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab </div>\par
+\tab\tab\tab </div>\par
+\tab\tab\tab <!-- events end -->\par
+\tab\tab\tab\par
+\tab\tab\tab <!-- about -->\par
+\tab\tab\tab <div class="about" id="team">\par
+\tab\tab\tab\tab <div class="container">\par
+\tab\tab\tab\tab\tab <!-- default heading -->\par
+\tab\tab\tab\tab\tab <div class="default-heading">\par
+\tab\tab\tab\tab\tab\tab <!-- heading -->\par
+}
+ 
