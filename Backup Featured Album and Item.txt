@@ -1,0 +1,145 @@
+{\rtf1\ansi\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\f0\fs22\lang9 <!-- featured abbum -->\par
+\tab\tab\tab <div class="featured pad" id="featuredalbum">\par
+\tab\tab\tab\tab <div class="container">\par
+\tab\tab\tab\tab\tab <!-- default heading -->\par
+\tab\tab\tab\tab\tab <div class="default-heading">\par
+\tab\tab\tab\tab\tab\tab <!-- heading -->\par
+\tab\tab\tab\tab\tab\tab <h2>Featured Album</h2>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab <!-- featured album elements -->\par
+\tab\tab\tab\tab\tab <div class="featured-element">\par
+\tab\tab\tab\tab\tab\tab <div class="row">\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-4 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/featured/1.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>There are many variations of passages available, but the majority have suffered Lorem alteration in some form, by injected look even slightly believable.</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Power Pop</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- some responce from social medial or web likes -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>1024+ <span class="label label-theme">Like</span> &nbsp;&nbsp; 825+ <span class="label label-theme">Love</span></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-4 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/featured/2.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>There are many variations of passages available, but the majority have suffered Lorem alteration in some form, by injected look even slightly believable.</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Bad Brains</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- some responce from social medial or web likes -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>1024+ <span class="label label-theme">Like</span> &nbsp;&nbsp; 825+ <span class="label label-theme">Love</span></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-4 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/featured/3.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>There are many variations of passages available, but the majority have suffered Lorem alteration in some form, by injected look even slightly believable.</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>The Mars Volta</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- some responce from social medial or web likes -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>1024+ <span class="label label-theme">Like</span> &nbsp;&nbsp; 825+ <span class="label label-theme">Love</span></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-4 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/featured/4.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>There are many variations of passages available, but the majority have suffered Lorem alteration in some form, by injected look even slightly believable.</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Dirty Dancing</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- some responce from social medial or web likes -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>1024+ <span class="label label-theme">Like</span> &nbsp;&nbsp; 825+ <span class="label label-theme">Love</span></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-4 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/featured/5.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>There are many variations of passages available, but the majority have suffered Lorem alteration in some form, by injected look even slightly believable.</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Hotel California</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- some responce from social medial or web likes -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>1024+ <span class="label label-theme">Like</span> &nbsp;&nbsp; 825+ <span class="label label-theme">Love</span></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab <div class="col-md-4 col-sm-6">\par
+\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured item -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item ">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image container -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="figure">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- image -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <img class="img-responsive" src="img/featured/6.jpg" alt="" />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- paragraph -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>There are many variations of passages available, but the majority have suffered Lorem alteration in some form, by injected look even slightly believable.</p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured information -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab <div class="featured-item-info">\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- featured title -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <h4>Punk Compilation</h4>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- horizontal line -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <hr />\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <!-- some responce from social medial or web likes -->\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab\tab <p>1024+ <span class="label label-theme">Like</span> &nbsp;&nbsp; 825+ <span class="label label-theme">Love</span></p>\par
+\tab\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab\tab </div>\par
+\tab\tab\tab\tab </div>\par
+\tab\tab\tab </div>\par
+}
+ 
